@@ -72,6 +72,29 @@ OpenCore UI and boot resources:
 2. Configure BIOS settings according to your system requirements
 3. Boot from OpenCore and select your macOS installation
 
+## BIOS Settings Images
+
+Reference BIOS screenshots:
+
+![BIOS setting 1](resources/260405052250.PNG)
+![BIOS setting 2](resources/260405052258.PNG)
+![BIOS setting 3](resources/260405052305.PNG)
+![BIOS setting 4](resources/260405052308.PNG)
+![BIOS setting 5](resources/260405052317.PNG)
+![BIOS setting 6](resources/260405052321.PNG)
+![BIOS setting 7](resources/260405052333.PNG)
+![BIOS setting 8](resources/260405052338.PNG)
+![BIOS setting 9](resources/260405052342.PNG)
+![BIOS setting 10](resources/260405052347.PNG)
+![BIOS setting 11](resources/260405052401.PNG)
+![BIOS setting 12](resources/260405052410.PNG)
+
+## Performance
+
+### Cinebench R23
+
+![Cinebench R23 result](resources/perf.jpg)
+
 ## Notes
 
 - This configuration is specific to the ASUS ROG Z890M-E WiFi Plus motherboard
