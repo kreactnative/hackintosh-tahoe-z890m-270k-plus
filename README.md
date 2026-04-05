@@ -5,12 +5,14 @@ OpenCore EFI configuration for GIGABYTE Z890M AORUS ELITE WIFI7 ICE motherboard.
 ## Hardware
 
 - **CPU:** Intel Core Ultra 7 processor 270K Plus
+- **GPU:** ASUS DUAL RADEON RX 6600 V3 8GB GDDR6
 - **Motherboard:** Z890M AORUS ELITE WIFI7 ICE
 - **Cooling:** Deepcool LM240
 - **Memory:**
 	- Kingbank 48GB x2 DDR5 6400MHz (96GB)
 	- KLEVV CRAS V RGB 64GB (32GB x2) DDR5 6400MHz
 - **NVMe:** SAMSUNG 9100 PRO
+- **LAN:** Realtek 2.5GbE LAN
 
 ## Directory Structure
 
