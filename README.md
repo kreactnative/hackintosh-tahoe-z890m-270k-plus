@@ -1,6 +1,16 @@
-# Z890M-E WiFi Plus Hackintosh EFI
+# Z890M AORUS ELITE WIFI7 ICE Hackintosh EFI
 
-OpenCore EFI configuration for ASUS ROG Z890M-E WiFi Plus motherboard.
+OpenCore EFI configuration for GIGABYTE Z890M AORUS ELITE WIFI7 ICE motherboard.
+
+## Hardware
+
+- **CPU:** Intel Core Ultra 7 processor 270K Plus
+- **Motherboard:** Z890M AORUS ELITE WIFI7 ICE
+- **Cooling:** Deepcool LM240
+- **Memory:**
+	- Kingbank 48GB x2 DDR5 6400MHz (96GB)
+	- KLEVV CRAS V RGB 64GB (32GB x2) DDR5 6400MHz
+- **NVMe:** SAMSUNG 9100 PRO
 
 ## Directory Structure
 
@@ -97,7 +107,7 @@ Reference BIOS screenshots:
 
 ## Notes
 
-- This configuration is specific to the ASUS ROG Z890M-E WiFi Plus motherboard
+- This configuration is specific to the Z890M AORUS ELITE WIFI7 ICE motherboard
 - Customize `config.plist` for your specific hardware configuration
 - Update kexts and drivers regularly
 - Backup working configurations before making changes
