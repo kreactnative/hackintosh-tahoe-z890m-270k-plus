@@ -105,6 +105,14 @@ Reference BIOS screenshots:
 
 ![Cinebench R23 result](resources/perf.jpg)
 
+## Cooling Monitoring Software
+
+For monitoring and controlling the Deepcool LM240 on Hackintosh:
+
+- [deepcool-lm-hackintosh](https://github.com/kreactnative/deepcool-lm-hackintosh.git)
+
+![Deepcool LM monitoring](resources/38211.jpg)
+
 ## Notes
 
 - This configuration is specific to the Z890M AORUS ELITE WIFI7 ICE motherboard
